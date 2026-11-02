@@ -1,0 +1,6 @@
+nb_drones: 2
+start_hub: start 1_0 0 [color=green]
+hub: r1 1 0 [color=red]
+end_hub: goal 2 -1 [color=yellow]
+connection: start-r1
+connection: r1-goal

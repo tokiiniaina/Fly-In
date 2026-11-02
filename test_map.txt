@@ -1,0 +1,4 @@
+nb_drones: 5
+start_hub: hub 0 0
+end_hub: goal 5 5
+connection: hub-goal [max_link_capacity=0]

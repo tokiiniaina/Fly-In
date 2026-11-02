@@ -1,0 +1,4 @@
+panda3d
+pytest
+flake8
+mypy

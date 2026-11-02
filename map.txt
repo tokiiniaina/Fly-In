@@ -1,0 +1,11 @@
+
+nb_drones: 3
+nb_drones: 4
+
+# Zones de départ et d'arrivée
+start_hub: start 0 0
+end_hub: goal 10 10
+
+hub: A 2 3
+connection: start-A
+connection: A-goal
